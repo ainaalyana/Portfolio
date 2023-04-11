@@ -1,0 +1,1066 @@
+.elementor-widget-heading .elementor-heading-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-image .widget-image-caption {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-text-editor {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-button .elementor-button {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-divider .elementor-divider__text {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-image-box .elementor-image-box-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-image-box .elementor-image-box-description {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-icon-box .elementor-icon-box-title,
+.elementor-widget-icon-box .elementor-icon-box-title a {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-icon-box .elementor-icon-box-description {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-star-rating .elementor-star-rating__title {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-image-gallery .gallery-item .gallery-caption {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-icon-list .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-widget-icon-list .elementor-icon-list-item>a {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-counter .elementor-counter-number-wrapper {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-counter .elementor-counter-title {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-progress .elementor-title {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-testimonial .elementor-testimonial-content {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-testimonial .elementor-testimonial-name {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-testimonial .elementor-testimonial-job {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-tabs .elementor-tab-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-tabs .elementor-tab-content {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-accordion .elementor-accordion-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-accordion .elementor-tab-content {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-toggle .elementor-toggle-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-toggle .elementor-tab-content {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-alert .elementor-alert-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-alert .elementor-alert-description {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_banner .hero__area-3 .sec-sub-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_banner .hero__area-3 .sec-title,
+.elementor-widget-axtra_our_banner .hero__area-2 .sec-title-3,
+.elementor-widget-axtra_our_banner .hero__title,
+.elementor-widget-axtra_our_banner .service__hero-right-2 .title,
+.elementor-widget-axtra_our_banner .hero__area-6 .hero__title-6 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_banner .hero__text-3 p,
+.elementor-widget-axtra_our_banner .hero__text-2 p,
+.elementor-widget-axtra_our_banner .hero__area .hero__sub-title,
+.elementor-widget-axtra_our_banner .service__hero-right-2 p,
+.elementor-widget-axtra_our_banner .hero__area-6 .hero__content-6 p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_client .react_border span,
+.elementor-widget-axtra_our_client .client__area-8 .react_border span {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_client .sec-sub-title,
+.elementor-widget-axtra_our_client .client__area-8 .about-sub-right {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_client .brand__title-3,
+.elementor-widget-axtra_our_client .sec-title,
+.elementor-widget-axtra_our_client .client__section__title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_client .client__section__dis {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_who_we_are .about__area-3 .sec-sub-title {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_who_we_are .about__area-3 .sec-title {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_who_we_are .about__area-3 .sec-text p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_who_we_are .btn-item {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_services .sec-sub-title,
+.elementor-widget-axtra_our_services .sec-subtile-6 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_services .sec-title,
+.elementor-widget-axtra_our_services .sec-title-6 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_services .service__area-3 .sec-title-wrapper p,
+.elementor-widget-axtra_our_services .service__top-text p,
+.elementor-widget-axtra_our_services .service__top-text p span,
+.elementor-widget-axtra_our_services .service__right-4 p,
+.elementor-widget-axtra_our_services .portfolio__service .sec-text p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_services .btn-item,
+.elementor-widget-axtra_our_services .btn-view {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_services .service__title-3,
+.elementor-widget-axtra_our_services .service__number span,
+.elementor-widget-axtra_our_services .service__title,
+.elementor-widget-axtra_our_services .service__title-7,
+.elementor-widget-axtra_our_services .service__item-number,
+.elementor-widget-axtra_our_services .service__item-title,
+.elementor-widget-axtra_our_services .portfolio__service-item .ps-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_services .service__content-3 p,
+.elementor-widget-axtra_our_services .service__content-3 ul li,
+.elementor-widget-axtra_our_services .service__text p,
+.elementor-widget-axtra_our_services .service__item-7 p,
+.elementor-widget-axtra_our_services .service__item-7 ul li,
+.elementor-widget-axtra_our_services .portfolio__service-item ul li {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_projects .sec-sub-title,
+.elementor-widget-axtra_our_projects .sec-subtile-6 {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_projects .portfolio__area-2 .sec-title-3,
+.elementor-widget-axtra_our_projects .portfolio__title-3,
+.elementor-widget-axtra_our_projects .portfolio__text,
+.elementor-widget-axtra_our_projects .portfolio__area-7 .sec-title,
+.elementor-widget-axtra_our_projects .sec-title-6,
+.elementor-widget-axtra_our_projects .portfolio__area-6 .sec-title,
+.elementor-widget-axtra_our_projects .sec-title-2 {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_projects .portfolio__area-2 .sec-title-wrapper .sec-text,
+.elementor-widget-axtra_our_projects .portfolio__area-7 p,
+.elementor-widget-axtra_our_projects .portfolio__sec-title p,
+.elementor-widget-axtra_our_projects .portfolio__area-6 .sec-title-wrapper p,
+.elementor-widget-axtra_our_projects .blog__text p {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_projects .btn-item {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_projects .portfolio__slide-2 .sec-title,
+.elementor-widget-axtra_our_projects .portfolio__title,
+.elementor-widget-axtra_our_projects .portfolio__slide-7 .title,
+.elementor-widget-axtra_our_projects .portfolio__title-4,
+.elementor-widget-axtra_our_projects .portfolio__title-6,
+.elementor-widget-axtra_our_projects .portfolio__project .pp-slide-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_projects .portfolio__slide-2 p,
+.elementor-widget-axtra_our_projects .portfolio__info p,
+.elementor-widget-axtra_our_projects .portfolio__slide-7 .date,
+.elementor-widget-axtra_our_projects .portfolio__subtitle-4,
+.elementor-widget-axtra_our_projects .portfolio__date,
+.elementor-widget-axtra_our_projects .portfolio__project .pp-slide-thumb p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_projects .portfolio__slide-2 .btn-common,
+.elementor-widget-axtra_our_projects .portfolio__icon-4 {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_testimonials .sec-sub-title,
+.elementor-widget-axtra_our_testimonials .sec-subtile-6 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_testimonials .sec-title,
+.elementor-widget-axtra_our_testimonials .sec-title-6 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_testimonials .testimonial__sec-title p {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_testimonials .client__role-3,
+.elementor-widget-axtra_our_testimonials .testimonial__name-4,
+.elementor-widget-axtra_our_testimonials .testimonial__author {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_testimonials .client__name-3,
+.elementor-widget-axtra_our_testimonials .testimonial__role-4,
+.elementor-widget-axtra_our_testimonials .testimonial__title-2 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_testimonials .testimonial__slide-3 p,
+.elementor-widget-axtra_our_testimonials .testimonial__info-4 p,
+.elementor-widget-axtra_our_testimonials .testimonial__text-2 {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_why_choose_us .research__area .sec-sub-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_why_choose_us .research__area .sec-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_why_choose_us .research__area .sec-title-wrapper p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_why_choose_us .research__tools li a {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_why_choose_us .sec-sub-title,
+.elementor-widget-axtra_why_choose_us .cta__sub-title-2,
+    {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_why_choose_us .choose-title,
+.elementor-widget-axtra_why_choose_us .cta__title-2,
+    {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_why_choose_us .sec-text p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_why_choose_us .btn-item {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_why_choose_us .research__title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_why_choose_us .research__number span,
+.elementor-widget-axtra_why_choose_us .counter__area-3 .counter__number {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_why_choose_us .research__item p,
+.elementor-widget-axtra_why_choose_us .counter__item-3 p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_pricing_table .sec-sub-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_pricing_table .sec-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_pricing_table .faq__list-3 .accordion-button {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_pricing_table .faq__list-3 .accordion-body p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_pricing_table .price__title,
+.elementor-widget-axtra_pricing_table .price__amount p {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_pricing_table .price__type,
+.elementor-widget-axtra_pricing_table .price__info p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_pricing_table .btn-item {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_latest_news .sec-sub-title,
+.elementor-widget-axtra_latest_news .sec-subtile-6,
+    {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_latest_news .sec-title,
+.elementor-widget-axtra_latest_news .sec-title-6,
+.elementor-widget-axtra_latest_news .sec-title-2 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_latest_news .blog__area-3 .sec-title-wrapper p,
+.elementor-widget-axtra_latest_news .blog__area-2 .sec-text p,
+.elementor-widget-axtra_latest_news .blog__area-4 .sec-title-wrapper p,
+.elementor-widget-axtra_latest_news .blog__text p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_latest_news .btn-item,
+.elementor-widget-axtra_latest_news .btn-started {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_latest_news .blog__meta,
+.elementor-widget-axtra_latest_news .blog__meta-2,
+.elementor-widget-axtra_latest_news .blog__meta-4 a,
+.elementor-widget-axtra_latest_news .blog__meta-4 span {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_latest_news .blog__title-3,
+.elementor-widget-axtra_latest_news .blog__title-2,
+.elementor-widget-axtra_latest_news .blog__title,
+.elementor-widget-axtra_latest_news .blog__title-4 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_latest_news .blog__btn,
+.elementor-widget-axtra_latest_news .blog__btn-4 {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_eatures .sec-title,
+.elementor-widget-axtra_our_eatures .sec-subtile-6,
+.elementor-widget-axtra_our_eatures .sec-title-6 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_eatures .feature__text p,
+.elementor-widget-axtra_our_eatures .service__area-2 .sec-text p,
+.elementor-widget-axtra_our_eatures .feature__content-right p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_eatures .btn-item {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_eatures .feature__title,
+.elementor-widget-axtra_our_eatures .service__title-2,
+.elementor-widget-axtra_our_eatures .feature__content-item h5,
+.elementor-widget-axtra_our_eatures .feature__title-6 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_eatures .feature__item p,
+.elementor-widget-axtra_our_eatures .service__item-2 p,
+.elementor-widget-axtra_our_eatures .service__item-2 ul li,
+.elementor-widget-axtra_our_eatures .feature__content-item p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_roll_silde_area .roll__slide h2 {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_about_us .about__area-2 .sec-title,
+.elementor-widget-axtra_about_us .brand__title-2 {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_about_us .about__area-2 .sec-text p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_about_us .btn-item {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_awards .award__area .sec-title {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_awards .award__right>p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_awards .award__text {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_awards .award__item p {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_call_to_action .cta__sub-title-2,
+.elementor-widget-axtra_call_to_action .cta__sub-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_call_to_action .cta__title-2,
+.elementor-widget-axtra_call_to_action .cta__title,
+.elementor-widget-axtra_call_to_action .cta__title-4,
+.elementor-widget-axtra_call_to_action .sec-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_call_to_action .cta__content-4 p,
+.elementor-widget-axtra_call_to_action .faq__btm p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_call_to_action .btn-item,
+.elementor-widget-axtra_call_to_action .btn-started {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_about_us_v2 .sec-title,
+.elementor-widget-axtra_about_us_v2 .hero__about-content .hero-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_about_us_v2 .about__content p,
+.elementor-widget-axtra_about_us_v2 .about__mid-7 p,
+.elementor-widget-axtra_about_us_v2 .hero__about-text p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_about_us_v2 .btn-item {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_funfacts .counter__item p,
+.elementor-widget-axtra_funfacts .counter__item-2 p {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_funfacts .counter__number {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_how_we_work .sec-sub-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_how_we_work .sec-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_how_we_work .workflow__step {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_how_we_work .workflow__title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_how_we_work .workflow__slide p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_testimonials_v2 .sec-sub-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_testimonials_v2 .sec-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_testimonials_v2 .testimonial__area p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_testimonials_v2 .testimonial__title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_testimonials_v2 .testimonial__role {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_project_awards .sec-title,
+.elementor-widget-axtra_project_awards .award__counter .counter__number {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_project_awards .feature__text p,
+.elementor-widget-axtra_project_awards .service__area-2 .sec-text p,
+.elementor-widget-axtra_project_awards .award__counter p,
+.elementor-widget-axtra_project_awards .award__mid-7 p,
+.elementor-widget-axtra_project_awards .award__item-7 .title {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_team .sec-sub-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_team .team__title-7,
+.elementor-widget-axtra_our_team .sec-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_team .team__area-7 .sec-text p,
+.elementor-widget-axtra_our_team .team__area-6 .sec-title-wrapper p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_team .btn-item {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_team .team__item-7 .tm-name,
+.elementor-widget-axtra_our_team .portfolio__title,
+.elementor-widget-axtra_our_team .portfolio__slide-7 .title,
+.elementor-widget-axtra_our_team .team__member-name,
+.elementor-widget-axtra_our_team .team__member-name-6 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_team .team__item-7 .tm-role,
+.elementor-widget-axtra_our_team .team__item-7 .tm-serial,
+.elementor-widget-axtra_our_team .portfolio__slide-7 .date,
+.elementor-widget-axtra_our_team .team__member-role,
+.team__member-role-6 {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_how_we_work_v2 .sec-subtile-6 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_how_we_work_v2 .sec-title-6 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_how_we_work_v2 .title-wrapper-6 p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_how_we_work_v2 .workflow__title-4 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_how_we_work_v2 .workflow__item-4 p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_faqs .sec-subtile-6 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_faqs .faq__area-4 .sec-title-6,
+.elementor-widget-axtra_our_faqs .sec-title-2 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_faqs .faq__sec-title p,
+.elementor-widget-axtra_our_faqs .faq__area-6 .sec-title-wrapper p {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_faqs .btn-item,
+.elementor-widget-axtra_our_faqs .btn-view {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_faqs .accordion-button {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_faqs .accordion-body p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_approch .sec-subtile-6 {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_approch .sec-title-6 {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_approch .solution__list li {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_personal_portfolio .portfolio__hero .title.shape-circle,
+.elementor-widget-axtra_personal_portfolio .sec-title,
+.elementor-widget-axtra_personal_portfolio .portfolio__project .pp-slide-title,
+.elementor-widget-axtra_personal_portfolio .portfolio__footer-area .pf-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_personal_portfolio .portfolio__about .sec-text p,
+.elementor-widget-axtra_personal_portfolio .portfolio__service .sec-text p,
+.elementor-widget-axtra_personal_portfolio .contact__text p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_personal_portfolio .wc-btn-dark {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_portfolio_banner .hero__title-5 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_portfolio_banner .hero__content-5 p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_portfolio_showcase .portfolio__title-5 {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_portfolio_showcase .portfolio__name-5 {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_story .sec-sub-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_story .sec-title,
+.elementor-widget-axtra_our_story .career__gallery ul li {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_story .about__area-2 .sec-text p,
+.elementor-widget-axtra_our_story .story__text p,
+.elementor-widget-axtra_our_story .career__gallery p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_digital_solution .hero__text-7 .about {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_digital_solution .solution__title,
+.elementor-widget-axtra_digital_solution .hero__title-7 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_digital_solution .solution__mid p,
+.elementor-widget-axtra_digital_solution .solution__btm li,
+.elementor-widget-axtra_digital_solution .hero__text-7 p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_service_tabs .service__list-6 li a {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_service_tabs .service__title-6 {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_service_tabs .service__item-6 p,
+.elementor-widget-axtra_service_tabs .service__item-6 ul li {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_service_tabs .btn-item {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_portfolio_v2_banner .sec-title-2 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_portfolio_v2_banner .blog__text p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_talented_team_title .sec-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_talented_team_title .team__btm p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_contact_us .about__area-2 .sec-title,
+.elementor-widget-axtra_contact_us .sec-title-2,
+.contact__info h3 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_contact_us .about__area-2 .sec-text p,
+.elementor-widget-axtra_contact_us .contact__text p,
+.contact__info ul li a,
+.contact__info ul li span {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_contact_us .btn-item1 {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_join_our_team .career__top .sec-title-2 {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_join_our_team .btn-item {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_careers .job__area .sec-title {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_careers .job__no {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_careers .job__title {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_careers .job__open {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_career_benefits .sec-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_career_benefits .career__benefits .sec-title-wrapper p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_career_benefits .career__benefits-list li {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_design_development .sec-title-4 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_design_development .hero__content-8 p.discription {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_design_development .hero__content-8 .scroll-down span {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_inspired_creativity .react_border span {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_inspired_creativity .about__area-8 .about-sub-right {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_inspired_creativity .about8__title,
+.elementor-widget-axtra_inspired_creativity .about8__title a {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_inspired_creativity .about8__content p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_inspired_creativity .about8__content .about_btn {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_select_work .react_border span {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_select_work .work__area-8 .about-sub-right {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_select_work .rollslide_title-1,
+.elementor-widget-axtra_select_work .rollslide_title-1 span {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_select_work .work8__title p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_select_work .about_btn {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_select_work .work8__content__title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_select_work .work8__content p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_video_section .award__text-8 .title {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_design_and_technology .tech_title,
+.elementor-widget-axtra_design_and_technology .tech_title a {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_design_and_technology .single_dis {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_awards_v2 .react_border span {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_awards_v2 .awards__area-8 .about-sub-right {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_awards_v2 .awards__content__title,
+.elementor-widget-axtra_our_awards_v2 .awards__content__title span {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_awards_v2 .awards__content p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_awards_v2 .awards__items .title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_our_awards_v2 .awards__items .number,
+.elementor-widget-axtra_our_awards_v2 .awards__items .date {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_showcase_carousel .hero10__content__title {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_showcase_carousel .hero10__content__name {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_interactive_link .portfolio__area-12 .sec-title-wrapper .sub-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_interactive_link .portfolio__area-12 .sec-title-wrapper .title,
+.elementor-widget-axtra_interactive_link .portfolio__area-12 .sec-title-wrapper .title span {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_interactive_link .portfolio__area-12 .sec-title-wrapper p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_interactive_link .portfolio__title-12,
+.elementor-widget-axtra_interactive_link .portfolio__title-12 span {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_interactive_link .portfolio__item-12 p,
+.portfolio__no-12 {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_portfolio_masonry .sec-title-8 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_portfolio_masonry .dis_port_4 {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_portfolio_masonry .section_title_wrapper .title_right__inner__left span,
+.elementor-widget-axtra_portfolio_masonry .section_title_wrapper .title_right__inner__right ul li a {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_portfolio_masonry .showcase4__content h2 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_portfolio_masonry .showcase4__content span {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_interactive_image_slider .gallary12__content__name {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_interactive_image_slider .gallary12__content__title,
+.elementor-widget-axtra_interactive_image_slider .gallary12__content__title span {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_showcase_parallax .sec-title-16,
+.elementor-widget-axtra_showcase_parallax .sec-title-16 span {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_showcase_parallax .showcase__top-16 .title-right p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_showcase_parallax .showcase__title-16,
+.elementor-widget-axtra_showcase_parallax .showcase__title-16 span {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_showcase_parallax .showcase__sub-title-16 {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_showcase_parallax .showcase5__content p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_logo_showcase .showcase__menu-4 button {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_logo_showcase .btn-item {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    color: var( --e-global-color-accent);
+}
+
+.elementor-widget-axtra_showcase_slider .hero_layer_9 h2 {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_showcase_slider .hero_layer_9 p {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_interactive_hover_showcase .portfolio__title-11,
+.elementor-widget-axtra_interactive_hover_showcase .portfolio__title-11 span {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_interactive_hover_showcase .portfolio__sub-title-11 {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_hero_title .sec-sub-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_hero_title .sec-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_hero_title .sec-title__text {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_services_detail_section_v1 .te-axtra-title {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_services_detail_section_v1 .te-axtra-text {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_services_detail_section_v3 .te-axtra-title {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_services_detail_section_v3 .te-axtra-text {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_services_detail_section_v4 .te-axtra-title {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_portfolio_detail .te-axtra-title {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+}
+
+.elementor-widget-axtra_portfolio_detail .te-axtra-text {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
+
+.elementor-widget-text-path {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+}
